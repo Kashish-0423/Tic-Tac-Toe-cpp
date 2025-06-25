@@ -1,0 +1,39 @@
+# === C++ Build Files ===
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+# Ignore generated folders
+bin/
+obj/
+build/
+
+# === Code::Blocks Project Files ===
+*.cbp
+*.layout
+*.depend
+*.layout.save
+*.autosave
+
+# === Windows System Files ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === Backup & Temp Files ===
+*.log
+*.tmp
+*.bak
+*~
+*.swp
+
+# === Editor Configs ===
+.vscode/
+.idea/
+
+# === macOS (in case files are copied from a Mac) ===
+.DS_Store
